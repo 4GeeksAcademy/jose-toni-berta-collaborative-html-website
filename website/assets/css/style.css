@@ -1,3 +1,25 @@
 body{
-    background: #BDBDBD;
+    background: white;
+}
+
+.img-tagline{
+    background-image: url("../img/bg.jpg");
+    background-position: 0 0;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    padding-top: 80px;
+    position: relative;
+    height: 600px;     
+}
+
+.title{
+    background-color: white;
+    text-align: center;
+    font-size: 140px; 
+}
+
+.subtitle{
+    background-color: white;
+    text-align: center;
+    font-size: 80px;
 }
